@@ -19,7 +19,7 @@ server and began writing a simple socket http server.
 
 **Link to work:** [python-demo](https://github.com/taylorak/python-demo)
 
-### Day 3: January 2, 2017
+### Day 3: January 3, 2017
 
 **Today's Progress**: Unboxed my rasberry pi 3 and set it up. Continued fixing
 up my simple socket server in python and started writing a simple web crawler.
@@ -28,3 +28,9 @@ up my simple socket server in python and started writing a simple web crawler.
 
 **Link to work:** [python-demo](https://github.com/taylorak/python-demo)
 
+### Day 4: January 3, 2017
+
+**Today's Progress**: Started looking through the node dominos pizza api. Began
+testing out code on my raspberry pi for ordering pizza.
+
+**Thoughts:** Dominos garlic parmesian sauce(white sauce) is the bomb.
