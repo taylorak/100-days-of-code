@@ -34,3 +34,13 @@ up my simple socket server in python and started writing a simple web crawler.
 testing out code on my raspberry pi for ordering pizza.
 
 **Thoughts:** Dominos garlic parmesian sauce(white sauce) is the bomb.
+
+### Day 5: January 4, 2017
+
+**Today's Progress**: Started writing a dashboard to display pizza orders and
+configure customer information. Looked through nodejs libraries for raspberry pi
+gpio pins.
+
+**Thoughts:** Should have checked that I had all the necessary items for
+connecting with my raspberry pi. Need to get some wires and a button before continuing with my pizza button.
+
