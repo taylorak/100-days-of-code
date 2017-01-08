@@ -44,3 +44,10 @@ gpio pins.
 **Thoughts:** Should have checked that I had all the necessary items for
 connecting with my raspberry pi. Need to get some wires and a button before continuing with my pizza button.
 
+### Day 6: January 7, 2017
+
+**Today's Progress**: Skipped a few days because I moved to a new apartment in
+Washington. Worked on learning more python basics and data structures.
+
+**Thoughts:** Left a bunch of my raspberry pi stuff in Hawaii and my internet has not been set up in my new apartment. Was really busy but I managed to work in a little time to at least play with python.
+
