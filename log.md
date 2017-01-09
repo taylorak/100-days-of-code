@@ -51,3 +51,12 @@ Washington. Worked on learning more python basics and data structures.
 
 **Thoughts:** Left a bunch of my raspberry pi stuff in Hawaii and my internet has not been set up in my new apartment. Was really busy but I managed to work in a little time to at least play with python.
 
+### Day 7: January 8, 2017
+
+**Today's Progress**: Worked on routing with angular ui router for individual
+project page in my project managment app. Modified links on my project list page
+to redirect to their respective individual pages.
+
+**Thoughts:** Working with no wifi, but managed to power through adding routing. Next time I work on my angular app I need to fix up the service that is returning projects since it is currently not filtering correctly.
+
+
