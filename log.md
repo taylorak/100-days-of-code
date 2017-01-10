@@ -60,3 +60,13 @@ to redirect to their respective individual pages.
 **Thoughts:** Working with no wifi, but managed to power through adding routing. Next time I work on my angular app I need to fix up the service that is returning projects since it is currently not filtering correctly.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
+### Day 8: January 9, 2017
+
+**Today's Progress**: Started working on the api for my angular app. Decided to
+use asp dotnet core. Learned about making new projects and how to make an api
+with asp dotnet.
+
+**Thoughts:** There are so many different generators for asp dotnet core projects and theres a lot of magic that I don't understand. I need to continue watching some tutorials and make some test projects before I add dotnet core to my angular app.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
