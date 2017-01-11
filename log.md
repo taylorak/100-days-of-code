@@ -70,3 +70,13 @@ with asp dotnet.
 **Thoughts:** There are so many different generators for asp dotnet core projects and theres a lot of magic that I don't understand. I need to continue watching some tutorials and make some test projects before I add dotnet core to my angular app.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
+### Day 9: January 10, 2017
+
+**Today's Progress**: Followed a couple tutorials from Pluralsight about making
+API's with dotnet core. Worked on setting up the server and forms for adding
+project details to my angular app.
+
+**Thoughts:** New apartment, new job, 1 hour of code is feeling pretty tough right now. Slowly working on my angular app when I have time and once I gete some of my stuff moved in I can begin working on my raspberry pi project again.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
