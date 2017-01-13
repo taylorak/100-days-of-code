@@ -80,3 +80,14 @@ project details to my angular app.
 **Thoughts:** New apartment, new job, 1 hour of code is feeling pretty tough right now. Slowly working on my angular app when I have time and once I gete some of my stuff moved in I can begin working on my raspberry pi project again.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: More practice with dotnet core. Started reading Docker in
+Action to practice setting up a multi container environment that will contain
+angular frontend and dotnet core backend.
+
+**Thoughts:** Used docker several times before but never really got a deep understanding of it. I hope that by setting up a full project with it that I can really understand how it works.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
