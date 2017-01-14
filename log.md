@@ -91,3 +91,16 @@ angular frontend and dotnet core backend.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 11: January 13, 2017
+
+**Today's Progress**: Remade my dotnet api from scratch following a tutorial on
+pluralsight instead of using a prebuilt template so that I can better understand
+what is going on.
+
+**Thoughts:** Found that the template I was using included too many dependencies
+and parts that it made it hard for me to grasp what is going on as a beginner.
+Using an empty template included just enough templating to start a project
+without it being too much.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
