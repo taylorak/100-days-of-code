@@ -104,3 +104,18 @@ without it being too much.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 12: January 14, 2017
+
+**Today's Progress**: Added in CORS to my dotnet API so my angular app could
+communicate with it. Added several more dummy routes for getting specific
+projects and adding projects. Still working through pluralsight videos and will
+eventually integrate an actual database with data into my ap.
+
+**Thoughts:** When I changed my angular app to start hitting the API started
+running into CORS errors but it was a simple fix to get the basic CORS service
+working on the server. Still learning how to make APIs with dotnet core, so not
+much real data yet but I will eventually get more into Entity Framework and
+attach an actual database.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
