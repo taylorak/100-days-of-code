@@ -119,3 +119,17 @@ attach an actual database.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 13: January 15, 2017
+
+**Today's Progress**: Ran in to several more issues with CORS, that were fixed
+after looking through the docs. Added a create and update route for my API.
+Updated my angular API to hit the get individual projects and create new
+projects with the new API.
+
+**Thoughts:** Got stuck on fixing CORS issues after I tried to hit my create
+project API route from my angular app. Needed to add a line to my startup config
+file to fix it. Also found a watcher tool that updates my server when I change
+my cs files, very helpful.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
