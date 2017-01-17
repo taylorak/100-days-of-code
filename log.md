@@ -133,3 +133,14 @@ my cs files, very helpful.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 14: January 16, 2017
+
+**Today's Progress**: Added a route for deleting projects to my API. Learned
+about dependency injection in dotnet core web apps and added Nlog to my project.
+
+**Thoughts:** Got stuck with adding Nlog to my project. My configuration was
+wrong and I didn't know how to see what I was doing wrong. Eventually I found
+that I misstyped something and everything worked fine after that.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
