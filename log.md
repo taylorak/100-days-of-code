@@ -144,3 +144,12 @@ that I misstyped something and everything worked fine after that.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 15: January 17, 2017
+
+**Today's Progress**: Started Adding Entity Framework to my application.
+
+**Thoughts:** Using MS SQL but I have not used it very much before. A lot of
+unknown quirks.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
