@@ -153,3 +153,15 @@ unknown quirks.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 16: January 18, 2017
+
+**Today's Progress**: Learned more about the Entity Framework and played around
+with MS SQL. Also, learned how to do migrations with dotnet.
+
+**Thoughts:** Was stuck on how to add migrations until I realized that you need
+to add Microsoft.EntityFrameworkCore.Tools.DotNet to the tools section of
+project.json.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
+
