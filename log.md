@@ -164,4 +164,12 @@ project.json.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
 
+### Day 17: January 21, 2017
+
+**Today's Progress**: Wrote some code for my arduino for change of pace and practiced with
+ocLazyLoader for angular lazy loading.
+
+**Thoughts:** Missed two days because I had work to do. Wasn't really feeling
+like working on my Lemon App so I decided to work on something else and get back
+to it later.
 
