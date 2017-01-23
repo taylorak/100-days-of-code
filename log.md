@@ -173,3 +173,10 @@ ocLazyLoader for angular lazy loading.
 like working on my Lemon App so I decided to work on something else and get back
 to it later.
 
+### Day 18: January 22, 2017
+
+**Today's Progress**: Got really deep into angular-ui-router.
+
+**Thoughts:** Trying to understand the underlying components of
+angular-ui-router to be able to build something similar.
+
