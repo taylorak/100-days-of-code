@@ -190,3 +190,4 @@ can use for the angular project as well.
 little time re learning the technology, but this project should be the perfect
 chance. I want to split my current webpack config into several smaller chunks.
 
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
