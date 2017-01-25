@@ -180,3 +180,13 @@ to it later.
 **Thoughts:** Trying to understand the underlying components of
 angular-ui-router to be able to build something similar.
 
+### Day 19: January 24, 2017
+
+**Today's Progress**: Working on adding production and development webpack
+configs to my angular project. Also trying to come up with a Dockerfile that I
+can use for the angular project as well.
+
+**Thoughts:** I am rusty with both webpack and docker so I need to spend a
+little time re learning the technology, but this project should be the perfect
+chance. I want to split my current webpack config into several smaller chunks.
+
