@@ -191,3 +191,15 @@ little time re learning the technology, but this project should be the perfect
 chance. I want to split my current webpack config into several smaller chunks.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
+### Day 20: January 25, 2017
+
+**Today's Progress**: Added more necessary configuration for building a
+production build with webpack. Breaking my giant config file into manageable
+pieces.
+
+**Thoughts:** There is a lot of configuration options that I am learning about
+that will improve my bundled app. I am going with a fairly basic build because I
+don't want to dive too deep into webpack but it is interesting.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
