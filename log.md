@@ -203,3 +203,16 @@ that will improve my bundled app. I am going with a fairly basic build because I
 don't want to dive too deep into webpack but it is interesting.
 
 **Link to work:** [Lemon App](https://github.com/taylorak/lemon)
+
+### Day 21: January 27, 2017
+
+**Today's Progress**: Got a monitor and my raspberry pi stuff in the mail. I
+worked on setting up my pi and can hopefully get back to some project i shelved.
+Started reading and practicing docker a little bit more. Going to add a
+Dockerfile to my angular app next.
+
+**Thoughts:** I am pretty beginner at docker and need to read up a lot on how to
+configure dockerfiles. Hopefully with my hour of code a day that won't take too
+long.
+
+**Link to work:** [Lemon App](https://github.com/taylorak/lemon)
